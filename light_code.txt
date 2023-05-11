@@ -1,5 +1,6 @@
 //  4   3
 //  1   2
+//servoto se vurti ot 0 do 180 gradusa
 
 int hldiff=sen1-sen2;
 int hudiff=sen3-sen4;

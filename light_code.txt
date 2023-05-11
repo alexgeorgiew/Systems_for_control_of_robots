@@ -1,6 +1,8 @@
+//  4   3
+//  1   2
 
 int hldiff=sen1-sen2;
-int hudiff=sen3-sen4;
+int hudiff=sen4-sen3;
 int vldiff=sen1-sen4;
 int vrdiff=sen2-sen3;
 

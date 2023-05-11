@@ -2,24 +2,28 @@
 //  1   2
 
 int hldiff=sen1-sen2;
-int hudiff=sen4-sen3;
+int hudiff=sen3-sen4;
 int vldiff=sen1-sen4;
 int vrdiff=sen2-sen3;
 
 if(hldiff<-50 || hudiff<-50)
 {
-        //vurtim nadqsno
+	//proverka dali e dostignat maksimum
+        	//vurtim nadqsno
 }
 else if(hldiff>50 || hudiff>50)
 {
-	//vurtim nalqvo
+	//proverka dali e dostignat maksimum
+		//vurtim nalqvo
 }
 
 if(vldiff<-50 || vrdiff<-50)
 {
-	//vurtim nagore
+	//proverka dali e dostignat maksimum
+		//vurtim nagore
 }
 else if(vldiff>50 || vrdiff>50)
 {
-	//vurtim nadolu
+	//proverka dali e dostignat maksimum
+		//vurtim nadolu
 }

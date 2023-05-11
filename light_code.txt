@@ -1,0 +1,23 @@
+
+int hldiff=sen1-sen2;
+int hudiff=sen3-sen4;
+int vldiff=sen1-sen4;
+int vrdiff=sen2-sen3;
+
+if(hldiff<-50 || hudiff<-50)
+{
+        //vurtim nadqsno
+}
+else if(hldiff>50 || hudiff>50)
+{
+	//vurtim nalqvo
+}
+
+if(vldiff<-50 || vrdiff<-50)
+{
+	//vurtim nagore
+}
+else if(vldiff>50 || vrdiff>50)
+{
+	//vurtim nadolu
+}
